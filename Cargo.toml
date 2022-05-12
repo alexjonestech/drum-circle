@@ -1,0 +1,9 @@
+[package]
+name = "drum-circle"
+version = "0.1.0"
+authors = ["Alex Jones <alexjonestech@outlook.com>"]
+edition = "2018"
+
+[dependencies]
+ggez = "0.7.0"
+queues = "1.0.2"
